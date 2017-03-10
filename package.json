@@ -1,0 +1,13 @@
+{
+  "name": "currency",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "~4.14.1",
+    "express-handlebars": "~3.0.0",
+    "moments": "0.0.2",
+    "request": "^2.80.0"
+  },
+  "description": "Currency App",
+  "main": "app.js",
+  "author": "Ian"
+}

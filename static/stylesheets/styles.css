@@ -1,0 +1,28 @@
+body{
+	background-color: #e3e3e3;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#logo {
+    border-radius: 60px;
+    overflow: hidden;
+    width: 63px;
+    height: 60px;
+    margin: 5px;
+}
+#logo img {
+    margin-left: -9px;
+}
+label{
+	display: block;
+}
+input,select,button{
+	margin-bottom:10px;
+	width: 173px;
+}
+select,button{
+	height: 21px;
+}
+button{
+	text-align: center;
+
+}

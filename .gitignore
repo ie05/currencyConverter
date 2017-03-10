@@ -1,0 +1,9 @@
+# Excel files
+*.xlsx
+# zipped folders
+*.zip
+hidden
+projects
+node_modules
+nasa-api-key
+astropix-hbs-master
