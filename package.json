@@ -9,5 +9,9 @@
   },
   "description": "Currency App",
   "main": "app.js",
-  "author": "Ian"
+  "author": "Ian",
+  "engines":{
+    "node":"6.9.4",
+    "npm":"3.10.10"
+  }
 }
